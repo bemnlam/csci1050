@@ -1,0 +1,15 @@
+CEntity
+eStyle 0
+eOrigin 0 -202 400 2
+eFlags 0
+eGroup 0
+ePairCount 7
+Key Angle Value "0 0 0"
+Key classname Value "ScriptPoint"
+Key NextOrder Value ""
+Key NextPoint Value "campt2"
+Key origin Value "0 -202 400"
+Key szEntityName Value "campt1"
+Key %name% Value "ScriptPoint1"
+End CEntity
+
